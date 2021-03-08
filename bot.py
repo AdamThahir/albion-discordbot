@@ -39,7 +39,7 @@ async def FetchData(limit=51, offset=0):
     return None
 
 
-async def SendKillEmbeds(self, embeds: list):
+async def SendKillEmbeds(embeds: list):
     global discord_channel
     for embed_ in embeds:
         await discord_channel.send(embed=embed)
