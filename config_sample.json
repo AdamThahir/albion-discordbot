@@ -1,0 +1,13 @@
+{
+    "cloudinary_cloud_name": "CLOUD_NAME",
+    "cloudinary_api_key": "API_KEY",
+    "cloudinary_api_secret": "API_SECRET",
+
+    "discord_token": "DISCORD_TOEKN",
+    "discord_channel": 000000000000000000,
+
+    "albion_guilds": [],
+    "albion_alliances": [],
+    "albion_players": []
+
+}
