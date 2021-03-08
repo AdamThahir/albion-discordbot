@@ -1,6 +1,6 @@
-# ReadME
+# ReadMe
 
-albion-discordbot is a project created for personal use. The main use of this bot is the same as any other ALbion Online discord Killbot.
+albion-discordbot is a project created for personal use. The main use of this bot is the same as any other Albion Online discord Killbot.
 
 At the moment, only the Killbot function of the bot is added, and some visual in the generated images are off. 
 
